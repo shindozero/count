@@ -1,0 +1,1972 @@
+{
+  "23.7_121.5": {
+    "count": 1,
+    "regions_summary": "台湾付近(1)",
+    "text_color": "#1E5E1E"
+  },
+  "24.1_122.3": {
+    "count": 1,
+    "regions_summary": "台湾付近(1)",
+    "text_color": "#1E5E1E"
+  },
+  "24.8_122.0": {
+    "count": 1,
+    "regions_summary": "台湾付近(1)",
+    "text_color": "#1E5E1E"
+  },
+  "24.8_125.2": {
+    "count": 1,
+    "regions_summary": "宮古島近海(1)",
+    "text_color": "#1E5E1E"
+  },
+  "25.3_125.0": {
+    "count": 1,
+    "regions_summary": "宮古島近海(1)",
+    "text_color": "#1E5E1E"
+  },
+  "25.8_128.6": {
+    "count": 1,
+    "regions_summary": "沖縄本島近海(1)",
+    "text_color": "#1E5E1E"
+  },
+  "25.9_124.3": {
+    "count": 1,
+    "regions_summary": "宮古島北西沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "26.0_124.1": {
+    "count": 1,
+    "regions_summary": "宮古島北西沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "26.4_142.4": {
+    "count": 1,
+    "regions_summary": "父島近海(1)",
+    "text_color": "#1E5E1E"
+  },
+  "26.7_142.2": {
+    "count": 1,
+    "regions_summary": "父島近海(1)",
+    "text_color": "#1E5E1E"
+  },
+  "26.8_127.9": {
+    "count": 1,
+    "regions_summary": "沖縄本島近海(1)",
+    "text_color": "#1E5E1E"
+  },
+  "27.3_128.4": {
+    "count": 1,
+    "regions_summary": "沖縄本島近海(1)",
+    "text_color": "#1E5E1E"
+  },
+  "27.5_128.9": {
+    "count": 1,
+    "regions_summary": "沖縄本島近海(1)",
+    "text_color": "#1E5E1E"
+  },
+  "27.8_129.0": {
+    "count": 1,
+    "regions_summary": "奄美大島近海(1)",
+    "text_color": "#1E5E1E"
+  },
+  "28.0_128.0": {
+    "count": 1,
+    "regions_summary": "沖縄本島北西沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "28.0_129.4": {
+    "count": 2,
+    "regions_summary": "奄美大島近海(2)",
+    "text_color": "#736100"
+  },
+  "28.0_129.5": {
+    "count": 1,
+    "regions_summary": "奄美大島近海(1)",
+    "text_color": "#1E5E1E"
+  },
+  "28.0_129.6": {
+    "count": 1,
+    "regions_summary": "奄美大島近海(1)",
+    "text_color": "#1E5E1E"
+  },
+  "28.1_129.5": {
+    "count": 1,
+    "regions_summary": "奄美大島近海(1)",
+    "text_color": "#1E5E1E"
+  },
+  "28.1_129.6": {
+    "count": 1,
+    "regions_summary": "奄美大島近海(1)",
+    "text_color": "#1E5E1E"
+  },
+  "28.1_131.1": {
+    "count": 1,
+    "regions_summary": "奄美大島近海(1)",
+    "text_color": "#1E5E1E"
+  },
+  "28.2_129.5": {
+    "count": 2,
+    "regions_summary": "奄美大島近海(2)",
+    "text_color": "#736100"
+  },
+  "28.4_128.9": {
+    "count": 1,
+    "regions_summary": "トカラ列島近海(1)",
+    "text_color": "#1E5E1E"
+  },
+  "28.8_131.3": {
+    "count": 1,
+    "regions_summary": "奄美大島北東沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "28.9_129.3": {
+    "count": 1,
+    "regions_summary": "トカラ列島近海(1)",
+    "text_color": "#1E5E1E"
+  },
+  "29.3_130.5": {
+    "count": 1,
+    "regions_summary": "奄美大島北東沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "29.4_130.4": {
+    "count": 1,
+    "regions_summary": "奄美大島北東沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "29.6_129.6": {
+    "count": 1,
+    "regions_summary": "トカラ列島近海(1)",
+    "text_color": "#1E5E1E"
+  },
+  "30.5_130.3": {
+    "count": 1,
+    "regions_summary": "種子島近海(1)",
+    "text_color": "#1E5E1E"
+  },
+  "31.1_131.4": {
+    "count": 1,
+    "regions_summary": "大隅半島東方沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "31.5_130.5": {
+    "count": 1,
+    "regions_summary": "鹿児島県薩摩地方(1)",
+    "text_color": "#1E5E1E"
+  },
+  "31.7_130.7": {
+    "count": 1,
+    "regions_summary": "鹿児島湾(1)",
+    "text_color": "#1E5E1E"
+  },
+  "31.9_129.7": {
+    "count": 1,
+    "regions_summary": "薩摩半島西方沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "31.9_130.4": {
+    "count": 1,
+    "regions_summary": "鹿児島県薩摩地方(1)",
+    "text_color": "#1E5E1E"
+  },
+  "31.9_131.0": {
+    "count": 1,
+    "regions_summary": "宮崎県南部山沿い(1)",
+    "text_color": "#1E5E1E"
+  },
+  "31.9_131.2": {
+    "count": 1,
+    "regions_summary": "宮崎県南部山沿い(1)",
+    "text_color": "#1E5E1E"
+  },
+  "31.9_131.3": {
+    "count": 1,
+    "regions_summary": "宮崎県南部平野部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "31.9_131.7": {
+    "count": 1,
+    "regions_summary": "日向灘(1)",
+    "text_color": "#1E5E1E"
+  },
+  "31.9_132.0": {
+    "count": 2,
+    "regions_summary": "日向灘(2)",
+    "text_color": "#736100"
+  },
+  "32.0_130.1": {
+    "count": 3,
+    "regions_summary": "天草灘(3)",
+    "text_color": "#736100"
+  },
+  "32.0_130.4": {
+    "count": 1,
+    "regions_summary": "鹿児島県薩摩地方(1)",
+    "text_color": "#1E5E1E"
+  },
+  "32.0_131.0": {
+    "count": 1,
+    "regions_summary": "宮崎県南部山沿い(1)",
+    "text_color": "#1E5E1E"
+  },
+  "32.0_131.5": {
+    "count": 1,
+    "regions_summary": "宮崎県南部平野部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "32.0_131.6": {
+    "count": 1,
+    "regions_summary": "日向灘(1)",
+    "text_color": "#1E5E1E"
+  },
+  "32.0_131.8": {
+    "count": 1,
+    "regions_summary": "日向灘(1)",
+    "text_color": "#1E5E1E"
+  },
+  "32.1_130.4": {
+    "count": 5,
+    "regions_summary": "熊本県天草・芦北地方(4)／鹿児島県薩摩地方(1)",
+    "text_color": "#804000"
+  },
+  "32.1_130.5": {
+    "count": 1,
+    "regions_summary": "鹿児島県薩摩地方(1)",
+    "text_color": "#1E5E1E"
+  },
+  "32.1_131.0": {
+    "count": 1,
+    "regions_summary": "宮崎県南部山沿い(1)",
+    "text_color": "#1E5E1E"
+  },
+  "32.1_131.8": {
+    "count": 1,
+    "regions_summary": "日向灘(1)",
+    "text_color": "#1E5E1E"
+  },
+  "32.2_130.2": {
+    "count": 4,
+    "regions_summary": "鹿児島県薩摩地方(4)",
+    "text_color": "#804000"
+  },
+  "32.2_130.3": {
+    "count": 6,
+    "regions_summary": "鹿児島県薩摩地方(4)／熊本県天草・芦北地方(2)",
+    "text_color": "#804000"
+  },
+  "32.2_130.4": {
+    "count": 19,
+    "regions_summary": "熊本県天草・芦北地方(19)",
+    "text_color": "#800000"
+  },
+  "32.2_130.5": {
+    "count": 7,
+    "regions_summary": "熊本県天草・芦北地方(7)",
+    "text_color": "#804000"
+  },
+  "32.2_130.6": {
+    "count": 1,
+    "regions_summary": "熊本県天草・芦北地方(1)",
+    "text_color": "#1E5E1E"
+  },
+  "32.2_131.7": {
+    "count": 1,
+    "regions_summary": "日向灘(1)",
+    "text_color": "#1E5E1E"
+  },
+  "32.2_131.8": {
+    "count": 1,
+    "regions_summary": "日向灘(1)",
+    "text_color": "#1E5E1E"
+  },
+  "32.2_132.0": {
+    "count": 1,
+    "regions_summary": "日向灘(1)",
+    "text_color": "#1E5E1E"
+  },
+  "32.3_130.4": {
+    "count": 15,
+    "regions_summary": "熊本県天草・芦北地方(15)",
+    "text_color": "#800000"
+  },
+  "32.3_130.5": {
+    "count": 25,
+    "regions_summary": "熊本県天草・芦北地方(25)",
+    "text_color": "#800000"
+  },
+  "32.3_130.6": {
+    "count": 1,
+    "regions_summary": "熊本県天草・芦北地方(1)",
+    "text_color": "#1E5E1E"
+  },
+  "32.3_130.8": {
+    "count": 1,
+    "regions_summary": "熊本県球磨地方(1)",
+    "text_color": "#1E5E1E"
+  },
+  "32.3_131.9": {
+    "count": 2,
+    "regions_summary": "日向灘(2)",
+    "text_color": "#736100"
+  },
+  "32.3_132.2": {
+    "count": 1,
+    "regions_summary": "日向灘(1)",
+    "text_color": "#1E5E1E"
+  },
+  "32.4_130.4": {
+    "count": 5,
+    "regions_summary": "熊本県天草・芦北地方(5)",
+    "text_color": "#804000"
+  },
+  "32.4_130.5": {
+    "count": 24,
+    "regions_summary": "熊本県天草・芦北地方(24)",
+    "text_color": "#800000"
+  },
+  "32.4_130.6": {
+    "count": 3,
+    "regions_summary": "熊本県天草・芦北地方(3)",
+    "text_color": "#736100"
+  },
+  "32.4_130.7": {
+    "count": 3,
+    "regions_summary": "熊本県熊本地方(3)",
+    "text_color": "#736100"
+  },
+  "32.4_131.5": {
+    "count": 2,
+    "regions_summary": "宮崎県北部平野部(2)",
+    "text_color": "#736100"
+  },
+  "32.4_131.8": {
+    "count": 1,
+    "regions_summary": "日向灘(1)",
+    "text_color": "#1E5E1E"
+  },
+  "32.5_130.5": {
+    "count": 10,
+    "regions_summary": "熊本県天草・芦北地方(10)",
+    "text_color": "#800000"
+  },
+  "32.5_130.6": {
+    "count": 33,
+    "regions_summary": "熊本県熊本地方(25)／熊本県天草・芦北地方(8)",
+    "text_color": "#660022"
+  },
+  "32.5_130.7": {
+    "count": 5,
+    "regions_summary": "熊本県熊本地方(5)",
+    "text_color": "#804000"
+  },
+  "32.5_131.7": {
+    "count": 2,
+    "regions_summary": "宮崎県北部平野部(2)",
+    "text_color": "#736100"
+  },
+  "32.6_129.9": {
+    "count": 1,
+    "regions_summary": "天草灘(1)",
+    "text_color": "#1E5E1E"
+  },
+  "32.6_130.0": {
+    "count": 1,
+    "regions_summary": "橘湾(1)",
+    "text_color": "#1E5E1E"
+  },
+  "32.6_130.6": {
+    "count": 6,
+    "regions_summary": "熊本県熊本地方(6)",
+    "text_color": "#804000"
+  },
+  "32.6_130.7": {
+    "count": 26,
+    "regions_summary": "熊本県熊本地方(24)／熊本県天草・芦北地方(2)",
+    "text_color": "#660022"
+  },
+  "32.6_130.8": {
+    "count": 1,
+    "regions_summary": "熊本県熊本地方(1)",
+    "text_color": "#1E5E1E"
+  },
+  "32.6_131.3": {
+    "count": 3,
+    "regions_summary": "宮崎県北部山沿い(3)",
+    "text_color": "#736100"
+  },
+  "32.6_131.7": {
+    "count": 1,
+    "regions_summary": "日向灘(1)",
+    "text_color": "#1E5E1E"
+  },
+  "32.6_132.1": {
+    "count": 1,
+    "regions_summary": "日向灘(1)",
+    "text_color": "#1E5E1E"
+  },
+  "32.7_130.0": {
+    "count": 1,
+    "regions_summary": "橘湾(1)",
+    "text_color": "#1E5E1E"
+  },
+  "32.7_130.1": {
+    "count": 2,
+    "regions_summary": "橘湾(2)",
+    "text_color": "#736100"
+  },
+  "32.7_130.6": {
+    "count": 2,
+    "regions_summary": "熊本県熊本地方(2)",
+    "text_color": "#736100"
+  },
+  "32.7_130.7": {
+    "count": 20,
+    "regions_summary": "熊本県熊本地方(20)",
+    "text_color": "#800000"
+  },
+  "32.7_130.8": {
+    "count": 2,
+    "regions_summary": "熊本県熊本地方(2)",
+    "text_color": "#736100"
+  },
+  "32.7_132.1": {
+    "count": 1,
+    "regions_summary": "日向灘(1)",
+    "text_color": "#1E5E1E"
+  },
+  "32.7_132.5": {
+    "count": 1,
+    "regions_summary": "日向灘(1)",
+    "text_color": "#1E5E1E"
+  },
+  "32.8_130.5": {
+    "count": 1,
+    "regions_summary": "有明海(1)",
+    "text_color": "#1E5E1E"
+  },
+  "32.8_130.6": {
+    "count": 1,
+    "regions_summary": "有明海(1)",
+    "text_color": "#1E5E1E"
+  },
+  "32.8_130.8": {
+    "count": 2,
+    "regions_summary": "熊本県熊本地方(2)",
+    "text_color": "#736100"
+  },
+  "32.8_130.9": {
+    "count": 1,
+    "regions_summary": "熊本県熊本地方(1)",
+    "text_color": "#1E5E1E"
+  },
+  "32.8_132.1": {
+    "count": 1,
+    "regions_summary": "日向灘(1)",
+    "text_color": "#1E5E1E"
+  },
+  "32.9_130.4": {
+    "count": 3,
+    "regions_summary": "有明海(3)",
+    "text_color": "#736100"
+  },
+  "33.0_130.4": {
+    "count": 1,
+    "regions_summary": "有明海(1)",
+    "text_color": "#1E5E1E"
+  },
+  "33.0_131.1": {
+    "count": 2,
+    "regions_summary": "熊本県阿蘇地方(2)",
+    "text_color": "#736100"
+  },
+  "33.1_129.8": {
+    "count": 1,
+    "regions_summary": "長崎県北部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "33.1_131.1": {
+    "count": 1,
+    "regions_summary": "熊本県阿蘇地方(1)",
+    "text_color": "#1E5E1E"
+  },
+  "33.1_131.2": {
+    "count": 4,
+    "regions_summary": "熊本県阿蘇地方(4)",
+    "text_color": "#804000"
+  },
+  "33.1_132.1": {
+    "count": 1,
+    "regions_summary": "豊後水道(1)",
+    "text_color": "#1E5E1E"
+  },
+  "33.2_132.4": {
+    "count": 1,
+    "regions_summary": "豊後水道(1)",
+    "text_color": "#1E5E1E"
+  },
+  "33.3_131.9": {
+    "count": 1,
+    "regions_summary": "伊予灘(1)",
+    "text_color": "#1E5E1E"
+  },
+  "33.3_132.4": {
+    "count": 3,
+    "regions_summary": "愛媛県南予(2)／豊後水道(1)",
+    "text_color": "#736100"
+  },
+  "33.3_135.5": {
+    "count": 1,
+    "regions_summary": "和歌山県南方沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "33.3_137.0": {
+    "count": 1,
+    "regions_summary": "三重県南東沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "33.4_129.8": {
+    "count": 1,
+    "regions_summary": "長崎県北部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "33.4_140.7": {
+    "count": 1,
+    "regions_summary": "八丈島東方沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "33.5_130.1": {
+    "count": 3,
+    "regions_summary": "福岡県福岡地方(3)",
+    "text_color": "#736100"
+  },
+  "33.5_135.9": {
+    "count": 1,
+    "regions_summary": "和歌山県南方沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "33.6_132.9": {
+    "count": 1,
+    "regions_summary": "愛媛県中予(1)",
+    "text_color": "#1E5E1E"
+  },
+  "33.7_132.1": {
+    "count": 1,
+    "regions_summary": "伊予灘(1)",
+    "text_color": "#1E5E1E"
+  },
+  "33.7_132.5": {
+    "count": 1,
+    "regions_summary": "伊予灘(1)",
+    "text_color": "#1E5E1E"
+  },
+  "33.7_135.6": {
+    "count": 1,
+    "regions_summary": "和歌山県南部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "33.7_135.8": {
+    "count": 1,
+    "regions_summary": "和歌山県南部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "33.7_137.5": {
+    "count": 1,
+    "regions_summary": "三重県南東沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "33.8_132.6": {
+    "count": 1,
+    "regions_summary": "伊予灘(1)",
+    "text_color": "#1E5E1E"
+  },
+  "33.8_134.3": {
+    "count": 1,
+    "regions_summary": "徳島県南部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "33.8_134.9": {
+    "count": 2,
+    "regions_summary": "紀伊水道(2)",
+    "text_color": "#736100"
+  },
+  "33.8_135.6": {
+    "count": 2,
+    "regions_summary": "和歌山県南部(2)",
+    "text_color": "#736100"
+  },
+  "33.8_137.2": {
+    "count": 1,
+    "regions_summary": "三重県南東沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "33.9_135.0": {
+    "count": 2,
+    "regions_summary": "紀伊水道(2)",
+    "text_color": "#736100"
+  },
+  "33.9_140.6": {
+    "count": 1,
+    "regions_summary": "房総半島南方沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "33.9_140.7": {
+    "count": 1,
+    "regions_summary": "八丈島東方沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "34.0_131.1": {
+    "count": 1,
+    "regions_summary": "山口県西部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "34.0_134.1": {
+    "count": 1,
+    "regions_summary": "徳島県北部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "34.0_135.1": {
+    "count": 1,
+    "regions_summary": "和歌山県北部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "34.0_135.2": {
+    "count": 2,
+    "regions_summary": "和歌山県北部(2)",
+    "text_color": "#736100"
+  },
+  "34.1_135.3": {
+    "count": 5,
+    "regions_summary": "和歌山県北部(5)",
+    "text_color": "#804000"
+  },
+  "34.1_135.4": {
+    "count": 4,
+    "regions_summary": "和歌山県北部(4)",
+    "text_color": "#804000"
+  },
+  "34.2_135.1": {
+    "count": 3,
+    "regions_summary": "紀伊水道(3)",
+    "text_color": "#736100"
+  },
+  "34.2_135.2": {
+    "count": 4,
+    "regions_summary": "和歌山県北部(4)",
+    "text_color": "#804000"
+  },
+  "34.2_135.3": {
+    "count": 2,
+    "regions_summary": "和歌山県北部(2)",
+    "text_color": "#736100"
+  },
+  "34.3_132.1": {
+    "count": 2,
+    "regions_summary": "山口県東部(2)",
+    "text_color": "#736100"
+  },
+  "34.3_136.9": {
+    "count": 1,
+    "regions_summary": "三重県南東沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "34.4_131.5": {
+    "count": 1,
+    "regions_summary": "山口県北部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "34.4_140.3": {
+    "count": 1,
+    "regions_summary": "房総半島南方沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "34.5_131.5": {
+    "count": 2,
+    "regions_summary": "山口県北部(2)",
+    "text_color": "#736100"
+  },
+  "34.5_131.6": {
+    "count": 2,
+    "regions_summary": "山口県北部(2)",
+    "text_color": "#736100"
+  },
+  "34.5_135.8": {
+    "count": 1,
+    "regions_summary": "奈良県(1)",
+    "text_color": "#1E5E1E"
+  },
+  "34.6_129.0": {
+    "count": 1,
+    "regions_summary": "朝鮮半島南部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "34.7_134.7": {
+    "count": 1,
+    "regions_summary": "播磨灘(1)",
+    "text_color": "#1E5E1E"
+  },
+  "34.7_137.1": {
+    "count": 1,
+    "regions_summary": "三河湾(1)",
+    "text_color": "#1E5E1E"
+  },
+  "34.7_137.8": {
+    "count": 1,
+    "regions_summary": "静岡県西部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "34.7_141.5": {
+    "count": 1,
+    "regions_summary": "関東東方沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "34.8_133.9": {
+    "count": 1,
+    "regions_summary": "岡山県南部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "34.8_134.8": {
+    "count": 5,
+    "regions_summary": "兵庫県南西部(4)／兵庫県南東部(1)",
+    "text_color": "#804000"
+  },
+  "34.8_139.5": {
+    "count": 1,
+    "regions_summary": "伊豆大島近海(1)",
+    "text_color": "#1E5E1E"
+  },
+  "34.9_132.2": {
+    "count": 1,
+    "regions_summary": "島根県西部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "34.9_132.7": {
+    "count": 1,
+    "regions_summary": "島根県西部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "34.9_135.5": {
+    "count": 1,
+    "regions_summary": "大阪府北部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "34.9_135.6": {
+    "count": 5,
+    "regions_summary": "大阪府北部(4)／京都府南部(1)",
+    "text_color": "#804000"
+  },
+  "34.9_136.7": {
+    "count": 1,
+    "regions_summary": "三重県北部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "34.9_137.2": {
+    "count": 1,
+    "regions_summary": "愛知県西部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "34.9_137.4": {
+    "count": 1,
+    "regions_summary": "愛知県西部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "34.9_137.5": {
+    "count": 1,
+    "regions_summary": "愛知県東部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "34.9_137.8": {
+    "count": 2,
+    "regions_summary": "静岡県西部(2)",
+    "text_color": "#736100"
+  },
+  "34.9_140.0": {
+    "count": 1,
+    "regions_summary": "千葉県南東沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "34.9_140.1": {
+    "count": 1,
+    "regions_summary": "千葉県南東沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "35.0_132.2": {
+    "count": 1,
+    "regions_summary": "島根県西部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "35.0_135.6": {
+    "count": 2,
+    "regions_summary": "京都府南部(2)",
+    "text_color": "#736100"
+  },
+  "35.0_137.4": {
+    "count": 1,
+    "regions_summary": "愛知県西部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "35.0_137.8": {
+    "count": 1,
+    "regions_summary": "静岡県西部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "35.0_138.3": {
+    "count": 2,
+    "regions_summary": "静岡県中部(2)",
+    "text_color": "#736100"
+  },
+  "35.1_132.8": {
+    "count": 1,
+    "regions_summary": "島根県東部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "35.1_136.5": {
+    "count": 1,
+    "regions_summary": "三重県北部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "35.1_137.7": {
+    "count": 1,
+    "regions_summary": "愛知県東部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "35.1_137.8": {
+    "count": 1,
+    "regions_summary": "静岡県西部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "35.2_137.3": {
+    "count": 2,
+    "regions_summary": "愛知県西部(2)",
+    "text_color": "#736100"
+  },
+  "35.2_139.0": {
+    "count": 1,
+    "regions_summary": "神奈川県西部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "35.2_139.7": {
+    "count": 1,
+    "regions_summary": "東京湾(1)",
+    "text_color": "#1E5E1E"
+  },
+  "35.2_141.1": {
+    "count": 1,
+    "regions_summary": "千葉県東方沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "35.3_133.2": {
+    "count": 9,
+    "regions_summary": "島根県東部(9)",
+    "text_color": "#800000"
+  },
+  "35.3_133.3": {
+    "count": 4,
+    "regions_summary": "島根県東部(3)／鳥取県西部(1)",
+    "text_color": "#804000"
+  },
+  "35.3_137.6": {
+    "count": 1,
+    "regions_summary": "長野県南部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "35.3_141.2": {
+    "count": 1,
+    "regions_summary": "千葉県東方沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "35.4_136.8": {
+    "count": 1,
+    "regions_summary": "岐阜県美濃中西部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "35.4_136.9": {
+    "count": 3,
+    "regions_summary": "愛知県西部(2)／岐阜県美濃中西部(1)",
+    "text_color": "#736100"
+  },
+  "35.4_137.4": {
+    "count": 3,
+    "regions_summary": "岐阜県美濃東部(3)",
+    "text_color": "#736100"
+  },
+  "35.4_138.3": {
+    "count": 1,
+    "regions_summary": "山梨県中・西部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "35.4_139.1": {
+    "count": 1,
+    "regions_summary": "神奈川県西部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "35.5_134.5": {
+    "count": 1,
+    "regions_summary": "兵庫県北部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "35.5_136.8": {
+    "count": 1,
+    "regions_summary": "岐阜県美濃中西部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "35.5_137.4": {
+    "count": 2,
+    "regions_summary": "岐阜県美濃東部(2)",
+    "text_color": "#736100"
+  },
+  "35.5_139.0": {
+    "count": 1,
+    "regions_summary": "山梨県東部・富士五湖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "35.6_138.2": {
+    "count": 1,
+    "regions_summary": "長野県南部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "35.6_138.3": {
+    "count": 1,
+    "regions_summary": "山梨県中・西部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "35.6_138.9": {
+    "count": 1,
+    "regions_summary": "山梨県東部・富士五湖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "35.6_139.5": {
+    "count": 1,
+    "regions_summary": "東京都多摩東部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "35.6_140.1": {
+    "count": 2,
+    "regions_summary": "千葉県北西部(2)",
+    "text_color": "#736100"
+  },
+  "35.6_140.8": {
+    "count": 1,
+    "regions_summary": "千葉県東方沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "35.7_137.1": {
+    "count": 1,
+    "regions_summary": "岐阜県飛騨地方(1)",
+    "text_color": "#1E5E1E"
+  },
+  "35.7_137.2": {
+    "count": 1,
+    "regions_summary": "岐阜県飛騨地方(1)",
+    "text_color": "#1E5E1E"
+  },
+  "35.7_137.3": {
+    "count": 1,
+    "regions_summary": "岐阜県飛騨地方(1)",
+    "text_color": "#1E5E1E"
+  },
+  "35.7_139.2": {
+    "count": 1,
+    "regions_summary": "東京都多摩西部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "35.7_139.3": {
+    "count": 1,
+    "regions_summary": "東京都多摩東部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "35.7_140.6": {
+    "count": 2,
+    "regions_summary": "千葉県北東部(2)",
+    "text_color": "#736100"
+  },
+  "35.7_140.7": {
+    "count": 7,
+    "regions_summary": "千葉県北東部(7)",
+    "text_color": "#804000"
+  },
+  "35.8_137.9": {
+    "count": 1,
+    "regions_summary": "長野県南部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "35.8_138.0": {
+    "count": 1,
+    "regions_summary": "長野県南部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "35.8_139.8": {
+    "count": 1,
+    "regions_summary": "東京都２３区(1)",
+    "text_color": "#1E5E1E"
+  },
+  "35.8_140.3": {
+    "count": 1,
+    "regions_summary": "千葉県北西部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "35.8_141.0": {
+    "count": 1,
+    "regions_summary": "千葉県東方沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "35.9_137.6": {
+    "count": 9,
+    "regions_summary": "長野県南部(9)",
+    "text_color": "#800000"
+  },
+  "35.9_137.7": {
+    "count": 2,
+    "regions_summary": "長野県南部(2)",
+    "text_color": "#736100"
+  },
+  "35.9_137.8": {
+    "count": 3,
+    "regions_summary": "長野県南部(3)",
+    "text_color": "#736100"
+  },
+  "35.9_138.1": {
+    "count": 1,
+    "regions_summary": "長野県南部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "35.9_138.7": {
+    "count": 2,
+    "regions_summary": "山梨県中・西部(2)",
+    "text_color": "#736100"
+  },
+  "35.9_139.1": {
+    "count": 1,
+    "regions_summary": "埼玉県秩父地方(1)",
+    "text_color": "#1E5E1E"
+  },
+  "35.9_140.2": {
+    "count": 1,
+    "regions_summary": "茨城県南部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "35.9_140.5": {
+    "count": 1,
+    "regions_summary": "千葉県北東部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "36.0_137.6": {
+    "count": 2,
+    "regions_summary": "岐阜県飛騨地方(2)",
+    "text_color": "#736100"
+  },
+  "36.0_139.7": {
+    "count": 1,
+    "regions_summary": "埼玉県北部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "36.0_140.1": {
+    "count": 1,
+    "regions_summary": "茨城県南部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "36.0_141.2": {
+    "count": 1,
+    "regions_summary": "茨城県沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "36.0_141.4": {
+    "count": 2,
+    "regions_summary": "茨城県沖(2)",
+    "text_color": "#736100"
+  },
+  "36.1_137.7": {
+    "count": 1,
+    "regions_summary": "長野県中部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "36.2_136.9": {
+    "count": 1,
+    "regions_summary": "岐阜県飛騨地方(1)",
+    "text_color": "#1E5E1E"
+  },
+  "36.2_137.6": {
+    "count": 1,
+    "regions_summary": "岐阜県飛騨地方(1)",
+    "text_color": "#1E5E1E"
+  },
+  "36.2_138.0": {
+    "count": 1,
+    "regions_summary": "長野県中部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "36.2_139.1": {
+    "count": 1,
+    "regions_summary": "埼玉県北部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "36.2_139.8": {
+    "count": 1,
+    "regions_summary": "茨城県南部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "36.2_140.0": {
+    "count": 1,
+    "regions_summary": "茨城県南部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "36.3_140.9": {
+    "count": 1,
+    "regions_summary": "茨城県沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "36.3_141.0": {
+    "count": 1,
+    "regions_summary": "茨城県沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "36.3_141.8": {
+    "count": 1,
+    "regions_summary": "茨城県沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "36.4_137.6": {
+    "count": 1,
+    "regions_summary": "長野県北部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "36.4_138.0": {
+    "count": 1,
+    "regions_summary": "長野県中部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "36.4_140.6": {
+    "count": 1,
+    "regions_summary": "茨城県北部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "36.5_137.9": {
+    "count": 1,
+    "regions_summary": "長野県北部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "36.5_139.8": {
+    "count": 1,
+    "regions_summary": "栃木県南部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "36.5_141.2": {
+    "count": 1,
+    "regions_summary": "茨城県沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "36.6_137.8": {
+    "count": 1,
+    "regions_summary": "長野県北部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "36.6_137.9": {
+    "count": 1,
+    "regions_summary": "長野県北部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "36.6_139.4": {
+    "count": 3,
+    "regions_summary": "群馬県南部(3)",
+    "text_color": "#736100"
+  },
+  "36.6_139.5": {
+    "count": 1,
+    "regions_summary": "群馬県南部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "36.6_139.6": {
+    "count": 1,
+    "regions_summary": "栃木県南部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "36.6_140.5": {
+    "count": 1,
+    "regions_summary": "茨城県北部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "36.6_141.5": {
+    "count": 1,
+    "regions_summary": "茨城県沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "36.7_136.9": {
+    "count": 1,
+    "regions_summary": "富山県西部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "36.7_140.6": {
+    "count": 1,
+    "regions_summary": "茨城県北部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "36.7_140.7": {
+    "count": 1,
+    "regions_summary": "茨城県北部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "36.8_137.0": {
+    "count": 1,
+    "regions_summary": "富山湾(1)",
+    "text_color": "#1E5E1E"
+  },
+  "36.8_138.7": {
+    "count": 1,
+    "regions_summary": "新潟県中越地方(1)",
+    "text_color": "#1E5E1E"
+  },
+  "36.8_139.5": {
+    "count": 1,
+    "regions_summary": "栃木県北部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "36.8_140.4": {
+    "count": 1,
+    "regions_summary": "福島県中通り(1)",
+    "text_color": "#1E5E1E"
+  },
+  "36.8_140.6": {
+    "count": 1,
+    "regions_summary": "茨城県北部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "36.8_141.1": {
+    "count": 1,
+    "regions_summary": "茨城県沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "36.9_134.6": {
+    "count": 1,
+    "regions_summary": "兵庫県北方沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "36.9_140.5": {
+    "count": 1,
+    "regions_summary": "福島県中通り(1)",
+    "text_color": "#1E5E1E"
+  },
+  "36.9_140.6": {
+    "count": 1,
+    "regions_summary": "茨城県北部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "36.9_141.8": {
+    "count": 2,
+    "regions_summary": "福島県沖(2)",
+    "text_color": "#736100"
+  },
+  "36.9_142.0": {
+    "count": 1,
+    "regions_summary": "福島県沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "36.9_142.1": {
+    "count": 1,
+    "regions_summary": "福島県沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "37.0_139.5": {
+    "count": 1,
+    "regions_summary": "栃木県北部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "37.0_140.6": {
+    "count": 2,
+    "regions_summary": "福島県浜通り(2)",
+    "text_color": "#736100"
+  },
+  "37.0_140.7": {
+    "count": 1,
+    "regions_summary": "福島県浜通り(1)",
+    "text_color": "#1E5E1E"
+  },
+  "37.0_142.1": {
+    "count": 1,
+    "regions_summary": "福島県沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "37.0_143.7": {
+    "count": 1,
+    "regions_summary": "福島県沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "37.1_136.7": {
+    "count": 1,
+    "regions_summary": "能登半島沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "37.1_139.9": {
+    "count": 1,
+    "regions_summary": "栃木県北部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "37.1_140.7": {
+    "count": 1,
+    "regions_summary": "福島県浜通り(1)",
+    "text_color": "#1E5E1E"
+  },
+  "37.1_141.3": {
+    "count": 1,
+    "regions_summary": "福島県沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "37.1_142.1": {
+    "count": 4,
+    "regions_summary": "福島県沖(4)",
+    "text_color": "#804000"
+  },
+  "37.2_136.6": {
+    "count": 1,
+    "regions_summary": "能登半島沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "37.2_136.7": {
+    "count": 2,
+    "regions_summary": "石川県能登地方(2)",
+    "text_color": "#736100"
+  },
+  "37.2_136.8": {
+    "count": 1,
+    "regions_summary": "石川県能登地方(1)",
+    "text_color": "#1E5E1E"
+  },
+  "37.2_137.7": {
+    "count": 1,
+    "regions_summary": "新潟県上中越沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "37.2_138.2": {
+    "count": 1,
+    "regions_summary": "新潟県上中越沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "37.2_138.9": {
+    "count": 1,
+    "regions_summary": "新潟県中越地方(1)",
+    "text_color": "#1E5E1E"
+  },
+  "37.2_141.4": {
+    "count": 1,
+    "regions_summary": "福島県沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "37.2_142.1": {
+    "count": 1,
+    "regions_summary": "福島県沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "37.2_142.2": {
+    "count": 1,
+    "regions_summary": "福島県沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "37.2_142.3": {
+    "count": 1,
+    "regions_summary": "福島県沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "37.2_143.7": {
+    "count": 1,
+    "regions_summary": "福島県沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "37.3_136.8": {
+    "count": 2,
+    "regions_summary": "石川県能登地方(2)",
+    "text_color": "#736100"
+  },
+  "37.3_140.0": {
+    "count": 2,
+    "regions_summary": "福島県中通り(2)",
+    "text_color": "#736100"
+  },
+  "37.3_141.1": {
+    "count": 1,
+    "regions_summary": "福島県沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "37.3_141.8": {
+    "count": 2,
+    "regions_summary": "福島県沖(2)",
+    "text_color": "#736100"
+  },
+  "37.3_141.9": {
+    "count": 2,
+    "regions_summary": "福島県沖(2)",
+    "text_color": "#736100"
+  },
+  "37.3_142.0": {
+    "count": 2,
+    "regions_summary": "福島県沖(2)",
+    "text_color": "#736100"
+  },
+  "37.3_142.2": {
+    "count": 2,
+    "regions_summary": "福島県沖(2)",
+    "text_color": "#736100"
+  },
+  "37.3_144.6": {
+    "count": 1,
+    "regions_summary": "福島県沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "37.4_134.9": {
+    "count": 1,
+    "regions_summary": "日本海中部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "37.4_136.9": {
+    "count": 1,
+    "regions_summary": "石川県能登地方(1)",
+    "text_color": "#1E5E1E"
+  },
+  "37.4_138.5": {
+    "count": 1,
+    "regions_summary": "新潟県上中越沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "37.4_138.8": {
+    "count": 1,
+    "regions_summary": "新潟県中越地方(1)",
+    "text_color": "#1E5E1E"
+  },
+  "37.4_139.4": {
+    "count": 10,
+    "regions_summary": "福島県会津(10)",
+    "text_color": "#800000"
+  },
+  "37.4_139.5": {
+    "count": 5,
+    "regions_summary": "福島県会津(5)",
+    "text_color": "#804000"
+  },
+  "37.4_139.7": {
+    "count": 2,
+    "regions_summary": "福島県会津(2)",
+    "text_color": "#736100"
+  },
+  "37.4_139.8": {
+    "count": 1,
+    "regions_summary": "福島県会津(1)",
+    "text_color": "#1E5E1E"
+  },
+  "37.4_141.6": {
+    "count": 1,
+    "regions_summary": "福島県沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "37.4_141.9": {
+    "count": 1,
+    "regions_summary": "福島県沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "37.4_142.0": {
+    "count": 1,
+    "regions_summary": "福島県沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "37.4_142.3": {
+    "count": 1,
+    "regions_summary": "福島県沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "37.5_137.3": {
+    "count": 1,
+    "regions_summary": "石川県能登地方(1)",
+    "text_color": "#1E5E1E"
+  },
+  "37.5_137.9": {
+    "count": 1,
+    "regions_summary": "新潟県上中越沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "37.5_140.0": {
+    "count": 1,
+    "regions_summary": "福島県会津(1)",
+    "text_color": "#1E5E1E"
+  },
+  "37.5_140.2": {
+    "count": 1,
+    "regions_summary": "福島県会津(1)",
+    "text_color": "#1E5E1E"
+  },
+  "37.5_141.8": {
+    "count": 1,
+    "regions_summary": "福島県沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "37.6_140.7": {
+    "count": 1,
+    "regions_summary": "福島県浜通り(1)",
+    "text_color": "#1E5E1E"
+  },
+  "37.6_141.8": {
+    "count": 2,
+    "regions_summary": "福島県沖(2)",
+    "text_color": "#736100"
+  },
+  "37.6_142.4": {
+    "count": 1,
+    "regions_summary": "福島県沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "37.6_144.1": {
+    "count": 1,
+    "regions_summary": "福島県沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "37.7_141.5": {
+    "count": 1,
+    "regions_summary": "福島県沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "37.7_142.4": {
+    "count": 1,
+    "regions_summary": "福島県沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "37.8_140.3": {
+    "count": 4,
+    "regions_summary": "山形県置賜地方(2)／福島県中通り(2)",
+    "text_color": "#804000"
+  },
+  "37.8_141.6": {
+    "count": 8,
+    "regions_summary": "福島県沖(8)",
+    "text_color": "#800000"
+  },
+  "37.9_141.6": {
+    "count": 7,
+    "regions_summary": "福島県沖(7)",
+    "text_color": "#804000"
+  },
+  "37.9_141.7": {
+    "count": 2,
+    "regions_summary": "宮城県沖(2)",
+    "text_color": "#736100"
+  },
+  "37.9_141.8": {
+    "count": 2,
+    "regions_summary": "宮城県沖(2)",
+    "text_color": "#736100"
+  },
+  "37.9_144.1": {
+    "count": 1,
+    "regions_summary": "三陸沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "37.9_144.2": {
+    "count": 1,
+    "regions_summary": "三陸沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "37.9_144.4": {
+    "count": 1,
+    "regions_summary": "三陸沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "38.0_141.7": {
+    "count": 1,
+    "regions_summary": "宮城県沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "38.0_141.8": {
+    "count": 1,
+    "regions_summary": "宮城県沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "38.0_144.9": {
+    "count": 1,
+    "regions_summary": "三陸沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "38.1_141.7": {
+    "count": 1,
+    "regions_summary": "宮城県沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "38.1_144.0": {
+    "count": 1,
+    "regions_summary": "三陸沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "38.3_144.8": {
+    "count": 1,
+    "regions_summary": "三陸沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "38.4_139.1": {
+    "count": 1,
+    "regions_summary": "新潟県下越沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "38.4_142.2": {
+    "count": 1,
+    "regions_summary": "宮城県沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "38.7_141.5": {
+    "count": 1,
+    "regions_summary": "宮城県沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "38.8_141.7": {
+    "count": 1,
+    "regions_summary": "宮城県沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "38.8_142.1": {
+    "count": 1,
+    "regions_summary": "宮城県沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "38.8_142.2": {
+    "count": 1,
+    "regions_summary": "宮城県沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "38.8_142.4": {
+    "count": 1,
+    "regions_summary": "宮城県沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "38.9_140.9": {
+    "count": 1,
+    "regions_summary": "岩手県内陸南部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "38.9_141.3": {
+    "count": 1,
+    "regions_summary": "岩手県内陸南部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "38.9_142.0": {
+    "count": 1,
+    "regions_summary": "宮城県沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "39.0_140.9": {
+    "count": 2,
+    "regions_summary": "岩手県内陸南部(2)",
+    "text_color": "#736100"
+  },
+  "39.1_140.9": {
+    "count": 1,
+    "regions_summary": "岩手県内陸南部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "39.2_141.2": {
+    "count": 1,
+    "regions_summary": "岩手県内陸南部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "39.3_142.0": {
+    "count": 1,
+    "regions_summary": "岩手県沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "39.5_141.0": {
+    "count": 1,
+    "regions_summary": "岩手県内陸南部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "39.5_142.3": {
+    "count": 1,
+    "regions_summary": "岩手県沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "39.5_144.6": {
+    "count": 1,
+    "regions_summary": "三陸沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "39.5_144.8": {
+    "count": 1,
+    "regions_summary": "三陸沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "39.6_143.2": {
+    "count": 1,
+    "regions_summary": "三陸沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "39.6_144.7": {
+    "count": 2,
+    "regions_summary": "三陸沖(2)",
+    "text_color": "#736100"
+  },
+  "39.7_143.3": {
+    "count": 1,
+    "regions_summary": "三陸沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "39.7_143.4": {
+    "count": 4,
+    "regions_summary": "三陸沖(4)",
+    "text_color": "#804000"
+  },
+  "39.8_139.8": {
+    "count": 1,
+    "regions_summary": "秋田県沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "39.8_140.8": {
+    "count": 1,
+    "regions_summary": "岩手県内陸北部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "39.8_141.4": {
+    "count": 1,
+    "regions_summary": "岩手県内陸北部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "39.8_143.3": {
+    "count": 2,
+    "regions_summary": "三陸沖(2)",
+    "text_color": "#736100"
+  },
+  "39.9_140.7": {
+    "count": 2,
+    "regions_summary": "秋田県内陸南部(2)",
+    "text_color": "#736100"
+  },
+  "40.0_140.5": {
+    "count": 1,
+    "regions_summary": "秋田県内陸北部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "40.0_140.6": {
+    "count": 1,
+    "regions_summary": "秋田県内陸北部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "40.1_143.1": {
+    "count": 1,
+    "regions_summary": "三陸沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "40.1_143.2": {
+    "count": 1,
+    "regions_summary": "三陸沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "40.1_143.3": {
+    "count": 1,
+    "regions_summary": "三陸沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "40.2_142.4": {
+    "count": 1,
+    "regions_summary": "岩手県沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "40.2_142.7": {
+    "count": 2,
+    "regions_summary": "岩手県沖(2)",
+    "text_color": "#736100"
+  },
+  "40.2_143.4": {
+    "count": 1,
+    "regions_summary": "三陸沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "40.3_142.0": {
+    "count": 1,
+    "regions_summary": "岩手県沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "40.3_142.8": {
+    "count": 4,
+    "regions_summary": "岩手県沖(4)",
+    "text_color": "#804000"
+  },
+  "40.4_139.0": {
+    "count": 1,
+    "regions_summary": "秋田県沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "40.4_140.7": {
+    "count": 4,
+    "regions_summary": "秋田県内陸北部(4)",
+    "text_color": "#804000"
+  },
+  "40.4_141.7": {
+    "count": 1,
+    "regions_summary": "岩手県沿岸北部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "40.4_142.4": {
+    "count": 1,
+    "regions_summary": "岩手県沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "40.4_142.5": {
+    "count": 1,
+    "regions_summary": "岩手県沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "40.4_142.8": {
+    "count": 1,
+    "regions_summary": "岩手県沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "40.5_139.0": {
+    "count": 1,
+    "regions_summary": "青森県西方沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "40.5_142.3": {
+    "count": 1,
+    "regions_summary": "青森県東方沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "40.5_142.8": {
+    "count": 1,
+    "regions_summary": "青森県東方沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "40.8_142.8": {
+    "count": 1,
+    "regions_summary": "青森県東方沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "40.8_142.9": {
+    "count": 1,
+    "regions_summary": "青森県東方沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "40.9_142.1": {
+    "count": 1,
+    "regions_summary": "青森県東方沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "40.9_143.0": {
+    "count": 2,
+    "regions_summary": "青森県東方沖(2)",
+    "text_color": "#736100"
+  },
+  "40.9_145.0": {
+    "count": 2,
+    "regions_summary": "三陸沖(2)",
+    "text_color": "#736100"
+  },
+  "41.7_142.2": {
+    "count": 1,
+    "regions_summary": "浦河沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "42.0_146.3": {
+    "count": 1,
+    "regions_summary": "釧路沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "42.2_141.1": {
+    "count": 1,
+    "regions_summary": "苫小牧沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "42.5_141.9": {
+    "count": 1,
+    "regions_summary": "苫小牧沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "42.6_144.2": {
+    "count": 1,
+    "regions_summary": "釧路沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "42.6_144.6": {
+    "count": 1,
+    "regions_summary": "釧路沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "42.9_141.9": {
+    "count": 1,
+    "regions_summary": "胆振地方中東部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "42.9_145.3": {
+    "count": 1,
+    "regions_summary": "釧路沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "42.9_145.6": {
+    "count": 1,
+    "regions_summary": "釧路沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "42.9_146.4": {
+    "count": 1,
+    "regions_summary": "根室半島南東沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "43.0_146.3": {
+    "count": 1,
+    "regions_summary": "根室半島南東沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "43.1_143.5": {
+    "count": 1,
+    "regions_summary": "十勝地方中部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "43.2_144.6": {
+    "count": 1,
+    "regions_summary": "釧路地方中南部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "43.2_145.4": {
+    "count": 1,
+    "regions_summary": "根室地方南部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "43.3_140.4": {
+    "count": 1,
+    "regions_summary": "後志地方北部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "43.3_143.3": {
+    "count": 1,
+    "regions_summary": "十勝地方北部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "43.3_144.6": {
+    "count": 1,
+    "regions_summary": "釧路地方中南部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "43.4_143.0": {
+    "count": 3,
+    "regions_summary": "十勝地方北部(3)",
+    "text_color": "#736100"
+  },
+  "43.4_143.1": {
+    "count": 1,
+    "regions_summary": "十勝地方北部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "43.5_143.0": {
+    "count": 1,
+    "regions_summary": "十勝地方北部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "43.8_144.3": {
+    "count": 1,
+    "regions_summary": "網走地方(1)",
+    "text_color": "#1E5E1E"
+  },
+  "44.7_141.4": {
+    "count": 1,
+    "regions_summary": "北海道北西沖(1)",
+    "text_color": "#1E5E1E"
+  },
+  "44.9_141.9": {
+    "count": 1,
+    "regions_summary": "留萌地方中北部(1)",
+    "text_color": "#1E5E1E"
+  },
+  "44.9_142.0": {
+    "count": 1,
+    "regions_summary": "留萌地方中北部(1)",
+    "text_color": "#1E5E1E"
+  }
+}
